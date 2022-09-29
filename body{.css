@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    color: #fdfffc;
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-color:azure;
+
+}
+h1{
+    font-size: 45px;
+    font-family: sans-serif;
+    color: tomato;
+}
+
+input{
+    width: 90px;
+    height: 80px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: whit;
+    color: black;
+    border-style: solid;
+
+}
+
+.btn:hover{
+    background-color:royalblue;
+    cursor: pointer;
+
+}
